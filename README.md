@@ -38,15 +38,19 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
-
 ## Output:
 
-### Name:
-### Register Number:
+
+![Screenshot 2024-12-04 105649](https://github.com/user-attachments/assets/a1739987-ad94-4823-b611-5fe2d268520b)
+
+![Screenshot 2024-12-04 105621](https://github.com/user-attachments/assets/7058ef3f-1e2b-432d-8b35-9b44640a6f21)
+
+![Screenshot 2024-12-04 105634](https://github.com/user-attachments/assets/b385c253-597f-4974-b341-7118ad18a053)
+
+
+
+### Name: KIRAN.MP
+### Register Number: 24000839
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
